@@ -13,7 +13,7 @@
 Разработана модель в нотации BPMN 2.0 на примере выдачи ит-оборудования. Ознакомиться можно тут
    [BPMN 2.0](https://raw.githubusercontent.com/AnnaGAF08/test-task-fullsttack-analyst/refs/heads/main/BPMN%202.0/vydacha_it-oborudovania.bpmn)
 ### Задача 2
-Описаны критерии приемки для User Story
+Описаны критерии приемки для User Story c использованием Use Case. Ознакомиться можно тут [solutions](https://raw.githubusercontent.com/AnnaGAF08/test-task-fullsttack-analyst/refs/heads/main/solutions.md)
 
 ### Задача 3
 Задача 3.1 и 3.2 - пока знаний не достаточно чтобы их реализовать
